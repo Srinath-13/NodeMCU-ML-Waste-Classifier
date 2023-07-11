@@ -1,0 +1,1 @@
+custom_objects={'KerasLayer': hub.KerasLayer}
